@@ -1,4 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PapaSinku)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PapaSinku&theme=synthwave&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PapaSinku&layout=compact&langs_count=9&hide=css,html,jupyter%20notebook&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **PapaSinku/PapaSinku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
