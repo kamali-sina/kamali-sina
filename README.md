@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamali-sina&theme=synthwave&card_width=371&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamali-sina&theme=synthwave&card_width=369&count_private=true&include_all_commits=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=kamali-sina&theme=synthwave&card_width=369&count_private=true&include_all_commits=true&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamali-sina&layout=compact&card_width=350&langs_count=8&hide=css,html,jupyter,%20notebook,javascript,tex,Assembly,Makefile&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
